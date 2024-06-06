@@ -51,7 +51,9 @@ There is a noticeable correlation between lower income levels and higher default
 How to Use:
 
 Viewing the Report: The Power BI report can be accessed by downloading .pbix file from google drive ( https://shorturl.at/BJblI ) and opening the .pbix file in Power BI Desktop.
+
 Interacting with the Dashboard: Use the filters and interactive elements to explore the data from different angles and gain deeper insights.
+
 Conclusion
 This visual analysis provides a comprehensive overview of the factors affecting credit default risk among loan applicants. The interactive dashboards facilitate easy exploration and understanding of the data, helping stakeholders make informed decisions.
 
